@@ -1,0 +1,11 @@
+PS C:\> & C:/Users/pc/AppData/Local/Programs/Python/Python39/python.exe c:/Users/pc/Desktop/mediacollege/f1m1/python/opdracht-D.py
+Mijn naam is <Abdi Abdikarim>
+<Abdi Abdikarim>
+<ABDI ABDIKARIM>
+<A
+>mirakidbA idbA<
+Hallo <Abdi Abdikarim> ben je al 20 jaar?
+Je bent precies 20 jaar
+Willekeurig getal tussen 0 en 1000: 366
+2021-09-17 10:42:59.451536
+PS C:\> 
