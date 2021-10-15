@@ -18,7 +18,7 @@ print( a[0:6]+a[7:8])
 
 print("Enter Your Name? ")
 x = input()
-print("Fuck you "  + x)
+print("welkom "  + x)
 
 print("volgende getal uit.")
 p = input()
